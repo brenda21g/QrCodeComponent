@@ -10,5 +10,4 @@ export default defineConfig({
     },
     site:"https://brenda21g.github.io",
       base: "/QrCodeComponet",
-  
 });
