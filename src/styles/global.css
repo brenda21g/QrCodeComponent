@@ -1,6 +1,5 @@
 
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 @import "@fontsource/outfit/400.css";
 @import "@fontsource/outfit/700.css";
 
@@ -13,7 +12,7 @@
 body {
   font-family: 'Outfit', sans-serif;
   background-color: hsl(212, 45%, 89%);
-  min-height: 100vh;
+  min-height: 100vh; 
   display: flex;
   align-items: center;
   justify-content: center;
