@@ -11,7 +11,7 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 Agrega aquí una **captura de pantalla** del resultado final de tu componente.  
 > Puedes usar la herramienta de captura del navegador o cualquier software de tu preferencia.
 
-![!capturapagina1125](./public/images/Capturapagina111025.pngscreenshot.jpg)
+![Captura de pantalla del codigo QR](./public/images/Capturapagina111025.png)
 
 ---
 
